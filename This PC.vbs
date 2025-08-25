@@ -1,0 +1,13 @@
+X=MsgBox("Error while opening computer.Do you want to fix it?",3+64,"My Computer") 
+X=MsgBox("Unable to fix this error.Do you want to scan your computer",3+48,"My Computer")
+X=MsgBox("Alert! Virus has been detected.Do you want to delete this virus",3+16,"Alert")
+X=MsgBox("Unable to delete this virus",5+64,"Critical Error")
+X=MsgBox("Unable to delete this virus",5+64,"Critical Error")
+X=MsgBox("Virus Activated",2+16,"Alert")
+X=MsgBox("Deleting system files",2+16,"Delete")
+X=MsgBox("Please wait. Uploading your data.Do you want stop?",4+64,"Uploading")
+X=MsgBox("Unable to stop. File transfer completed",1+16,"Completed")
+X=MsgBox("Your computer is hacked.Don't turn off you computer.",1+64,"Hacked")
+X=MsgBox("You cannot access you computer again!",1+64,"Hacked")
+X=MsgBox("Just a joke bn. Hack une na. Baya wenn epa!  ",1+64,"PRANK")
+
